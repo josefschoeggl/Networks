@@ -20,11 +20,11 @@
   "features": {
     "search": true,
     "groupSelectorAttribute": false,
-    "hoverBehavior": "default"
+    "hoverBehavior": "dim"
   },
   "informationPanel": {
     "groupByEdgeDirection": false,
-    "imageAttribute": "Grad"
+    "imageAttribute": "Label"
   },
   "sigma": {
     "drawingProperties": {
