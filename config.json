@@ -9,17 +9,17 @@
   },
   "text": {
     "more": "...",
-    "intro": "Thematic map 2000-2012\t\t",
-    "title": "thematic map of CE research between 2000-2012"
+    "intro": "...",
+    "title": "Keyword co-occurence network in Circular Economy between 2000-2012"
   },
   "legend": {
-    "edgeLabel": "co-occurrences",
-    "colorLabel": "none",
-    "nodeLabel": "keywords"
+    "edgeLabel": "Co-Occurrences",
+    "colorLabel": "",
+    "nodeLabel": "Keywords"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": false,
+    "groupSelectorAttribute": "Label",
     "hoverBehavior": "dim"
   },
   "informationPanel": {
@@ -40,10 +40,10 @@
       "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 10,
+      "maxEdgeSize": 0.5,
       "minEdgeSize": 0.2,
       "minNodeSize": 1,
-      "maxNodeSize": 10
+      "maxNodeSize": 7
     },
     "mouseProperties": {
       "maxRatio": 20,
